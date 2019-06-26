@@ -1,6 +1,6 @@
 ## Common problems at check-up
 
-1. Wrong email
+### 1. Wrong email
 
 Running `check.rb` tells student that their `~/.gitconfig` email is the wrong one.
 
