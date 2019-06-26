@@ -19,7 +19,7 @@ Now copy/paste this very long line in your terminal. Do **not** change this one.
 ```bash
 mkdir -p ~/code/$GITHUB_USERNAME && cd $_ && git clone git@github.com:$GITHUB_USERNAME/dotfiles.git
 ```
-
+[![asciicast](https://asciinema.org/a/NXDlT4R7cgSEhREq2skZVRm8Y.svg)](https://asciinema.org/a/NXDlT4R7cgSEhREq2skZVRm8Y)
 Run the `dotfiles` installer.
 
 ```bash
