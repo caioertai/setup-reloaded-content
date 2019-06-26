@@ -1,8 +1,8 @@
 ## Homebrew
 
-On Mac, you need to install [Homebrew](http://brew.sh/) which is a Package Manager.
-It will be used as soon as we need to install some software.
-To do so, open your Terminal and run:
+> [Homebrew](http://brew.sh/) is an app store without visual interface. We interact with it only with command line in the terminal. We can download and install programs in a easy and quick way. Homebrew only exists for Mac 🍏. We call such a thing a **package manager**. All the programs that we download and install via homebrew doesn't have visual interface, so we'll interact with them using terminal.
+
+Open your terminal and run
 
 ```bash
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -10,28 +10,45 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 This will ask for your confirmation (hit `Enter`) and your laptop session password.
 
-If you already have Homebrew, it will tell you so, that's fine, go on.
+Once done, homebrew is installed 💪
 
-Then install some useful software:
+We'll now install some useful software, using homebrew ;)
+
+Run in the terminal
 
 ```bash
 brew update
 ```
 
-If you get a `/usr/local must be writable` error, just run this:
+This will tell to homebrew to update its "catalog" of programs
+
+Then, we'll install
+ * `git`, that will let us to save code on our laptop and push it to GitHub
+ * `wget`, that is a program that let us download files from terminal
+ * `imagemagick`, which is a program to transform images (crop, resize, etc.)
+ * `jq` (we'll see that later in the bootcamp for the usefulness)
+ * `openssl`, which is used for example when you pay something on internet with your credit card number, openssl is used to encrypt / decrypt data to secure the data transmission)
+
+You need to install all those things one by one
+
+⚠️ A lot of lines will be printed on your terminal, check as much as you can that there is no error (look for the `ERROR` keyword). If you have any doubt, call a teacher.
 
 ```bash
-sudo chown -R $USER:admin /usr/local
-brew update
+brew install "git"
 ```
 
-Error message or not, proceed running the following in the terminal (you can copy / paste all the lines at once).
+```bash
+brew install "wget"
+```
 
 ```bash
-function install_or_upgrade { brew ls | grep $1 > /dev/null; if (($? == 0)); then brew upgrade $1; else brew install $1; fi }
-install_or_upgrade "git"
-install_or_upgrade "wget"
-install_or_upgrade "imagemagick"
-install_or_upgrade "jq"
-install_or_upgrade "openssl"
+brew install "imagemagick"
+```
+
+```bash
+brew install "jq"
+```
+
+```bash
+brew install "openssl"
 ```
