@@ -1,0 +1,35 @@
+macos:
+  - name: Command line tools
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/01-command-line-tools/instructions.md
+  - name: Github Account
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/02-github-account/instructions.md
+  - name: Homebrew
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/03-homebrew/instructions.md
+  - name: Sublime
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/04-sublime/instructions.md
+  - name: Oh My Zsh
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/05-oh-my-zsh/instructions.md
+  - name: SSH Keys
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/06-ssh-keys/instructions.md
+  - name: Dotfiles
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/07-dotfiles/instructions.md
+  - name: Sublime Configuration
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/08-sublime-configuration/instructions.md
+  - name: SSH Passphrase
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/09-ssh-passphrase/instructions.md
+  - name: Rbenv & Ruby
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/10-rbenv-and-ruby/instructions.md
+  - name: Basic Gems
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/11-basic-gems/instructions.md
+  - name: PostgreSQL
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/12-postgresql/instructions.md
+  - name: OS Security
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/13-os-security/instructions.md
+  - name: Checkup
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/14-checkup/instructions.md
+  - name: Register as an alumni
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/15-alumni-registration/instructions.md
+  - name: Register on Le Wagon Slack
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/16-slack/instructions.md
+  - name: OS Tips and Keyboard configuration
+    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/17-keyboard-and-os-tips/instructions.md
