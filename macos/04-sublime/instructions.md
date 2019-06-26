@@ -1,6 +1,6 @@
 ## Sublime Text 3 - Your text editor
 
-> A text editor is a software like word that is used by developers to write code. Since code is just text, then the old "Notepad" text editor from our old windows was enough to write code. But we prefer more complete tools with shortcuts to navigate between file, code colorization, etc. A text editor is one of the most important tools of a developer.
+> A text editor is a software like word that is used by developers to write code. Since code is just text, then the old "Notepad" text editor from our old windows was enough to write code. But we prefer more complete tools with shortcuts to navigate between files, to add code colorization, etc. A text editor is one of the most important tools of a developer.
 
 We'll install sublime text 3. Go to [this page](http://www.sublimetext.com/3) and download **Sublime Text 3** for OS X. Install it (double click the downloaded file and drag & drop the app **into** the `Applications` folder, **don't skip this**).
 
