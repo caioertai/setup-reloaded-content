@@ -30,6 +30,8 @@ Now copy/paste this very long line in your terminal. Do **not** change this one.
 mkdir -p ~/code/$GITHUB_USERNAME && cd $_ && git clone git@github.com:$GITHUB_USERNAME/dotfiles.git
 ```
 
+<script id="asciicast-ks0iILrMVv7kvmJ1STqKiwFWR" src="https://asciinema.org/a/ks0iILrMVv7kvmJ1STqKiwFWR.js" async></script>
+
 After that, the content of the "dotfiles" folder should be present on your laptop. We now just have to launch 2 commands to configure zsh and git.
 
 Run the `dotfiles` installer.
