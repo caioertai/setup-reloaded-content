@@ -27,28 +27,28 @@ Then, we'll install
  * `wget`, that is a program that let us download files from terminal
  * `imagemagick`, which is a program to transform images (crop, resize, etc.)
  * `jq` (we'll see that later in the bootcamp for the usefulness)
- * `openssl`, which is used for example when you pay something on internet with your credit card number, openssl is used to encrypt / decrypt data to secure the data transmission)
+ * `openssl`, which is used for example when you pay something on internet with your credit card number, openssl is used to encrypt / decrypt data to secure the data transmission
 
 You need to install all those things one by one
 
 ⚠️ A lot of lines will be printed on your terminal, check as much as you can that there is no error (look for the `ERROR` keyword). If you have any doubt, call a teacher.
 
 ```bash
-brew install "git"
+brew install git
 ```
 
 ```bash
-brew install "wget"
+brew install wget
 ```
 
 ```bash
-brew install "imagemagick"
+brew install imagemagick
 ```
 
 ```bash
-brew install "jq"
+brew install jq
 ```
 
 ```bash
-brew install "openssl"
+brew install openssl
 ```
