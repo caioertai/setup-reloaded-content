@@ -1,6 +1,6 @@
 ## Oh-my-zsh - Fancy your Terminal
 
-> Unix based operating system (such as Linux, Ubuntu, Mac OS, etc.) have all by default a terminal. A terminal is just a text shell where we can run command. In fact, the whole Visual Interface of your OS is just a abstraction of the terminal. When you double click on chrome for example, your OS launch a command in the terminal to launch chrome. Then, if you know the commands, you can launch programs without interacting with your OS graphical interface. By default, the terminal of MacOS is not customizable enough for us, then we'll use oh-my-zsh as the default terminal. We call it `zsh`
+> Unix based operating system (such as Linux, Ubuntu, Mac OS, etc.) have all by default a terminal. A terminal is just a text shell where we can run command. In fact, the whole Visual Interface of your OS is just an abstraction of the terminal. When you double click on chrome for example, your OS launch a command in the terminal to launch chrome. Then, if you know the commands, you can launch programs without interacting with your OS graphical interface. By default, the terminal of MacOS is not customizable enough for us, then we'll use oh-my-zsh as the default terminal. We call it `zsh`
 
 To install it, run this command in the terminal
 
@@ -33,4 +33,4 @@ Open `Terminal > Preferences` and set the "Pro" theme as default in `Profiles` (
 
 **Quit and relaunch the Terminal again**. It should now have a nice black background, more easy on the eyes. 🚀
 
-You now have a powerful terminal, and we'll soon (in 2 steps) enhance it plugins 💪
+You now have a powerful terminal, and we'll soon (in 2 steps) enhance it with plugins 💪
