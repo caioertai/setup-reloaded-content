@@ -8,7 +8,7 @@ Added SSH key to ssh-agent using `ssh-add` command, but when student restarts th
 
 - TO DO
 
-### 1. Illegal option
+### 2. Illegal option
 
 When running `mkdir -p ~/.ssh && ssh-keygen -t ed25519 -o -a 100 -f ~/.ssh/id_ed25519 -C “TYPE_YOUR_EMAIL@HERE.com”`, the response is `illegal option --o` and then lists the available flags SSH keygen.
 
