@@ -1,6 +1,8 @@
 ## Installing Ruby (with [rbenv](https://github.com/sstephenson/rbenv))
 
-First we need to clean up any previous Ruby installation you might have:
+> Ruby is the programming language that we choose to teach in Le Wagon. MacOS has ruby by default, but an old version. Also, developers want to have multiple versions of ruby on their laptop, because we usually work on severals different projects, which have different ruby version. To handle multiple ruby version, there is 2 tools : rbenv and rvm. We'll use rbenv.
+
+We start by cleaning any version ruby that you might have, removing rbenv and rvm if it's already installed.
 
 ```bash
 rvm implode && sudo rm -rf ~/.rvm
@@ -8,42 +10,39 @@ rvm implode && sudo rm -rf ~/.rvm
 # on your computer, that's what we want!
 
 sudo rm -rf $HOME/.rbenv /usr/local/rbenv /opt/rbenv /usr/local/opt/rbenv
-```
-
-Now let's get [`rbenv`](https://github.com/rbenv/rbenv) and [`ruby-build`](https://github.com/rbenv/ruby-build) packages from Homebrew, they'll be useful.
-
-```bash
 brew uninstall --force rbenv ruby-build
 ```
+
+Now we're going to install [`rbenv`](https://github.com/rbenv/rbenv) and `ruby-build` using our beloved homebrew ;)
 
 Then quit **all your opened terminal windows** (Cmd + Q) and restart one. Then run:
 
 ```bash
-brew install rbenv
+brew install rbenv ruby-build
 ```
 
 Again, quit all your terminal windows and restart.
 
-
-Now, you are ready to install the latest ruby version, and set it as the default version.
+Now, rbenv is installed, and we'll use rbenv to install the last stable version of ruby (2.6.3).
 
 Run this command, it will **take a while (5-10 minutes)**
 
 ```bash
-rbenv install 2.6.3
+  rbenv install 2.6.3
 ```
 
-Once the ruby installation is done, run this command to tell the system
-to use the 2.6.3 version by default.
+Since rbenv is able to manage multiple versions of ruby, it's better to set the default one that rbenv should use if it doesn't know which one should be used for a given project.
+
+So, run
 
 ```bash
-rbenv global 2.6.3
+  rbenv global 2.6.3
 ```
 
 Then **restart** your Terminal again (close it and reopen it).
 
 ```bash
-ruby -v
+  ruby -v
 ```
 
 You should see something starting with `ruby 2.6.3p`. If not, ask a teacher.
