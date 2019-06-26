@@ -5,6 +5,7 @@
 To install command line tools, your first need to open the Terminal (click the magnifying glass icon in the top right corner of your screen and type `Terminal`):
 
 ![](https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/images/open-terminal.png)
+
 Copy-paste the following command in the terminal and hit Enter.
 
 ```bash
