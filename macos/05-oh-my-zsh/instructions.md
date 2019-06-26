@@ -22,14 +22,14 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 👉🏻 Now **quit the Terminal** (`⌘` + `Q`), and restart it.
 
 You should see something like this
-![](../../images/on-my-zsh.png)
+![](https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/images/on-my-zsh.png)
 If not, **stop right away** and call a teacher.
 
 Once zsh is installed, we are going to customize a little bit it :
 
 Open `Terminal > Preferences` and set the "Pro" theme as default in `Profiles` (*`Réglages`* in French).
 
-![](../../images/terminal-pro.png)
+![](https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/images/terminal-pro.png)
 
 **Quit and relaunch the Terminal again**. It should now have a nice black background, more easy on the eyes. 🚀
 
