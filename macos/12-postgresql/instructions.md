@@ -1,4 +1,4 @@
-## Postgresql
+# Postgresql
 
 In a few weeks, we'll talk about SQL and Databases and you'll need something called Postgresql,
 an open-source robust and production-ready database. Let's install it now.

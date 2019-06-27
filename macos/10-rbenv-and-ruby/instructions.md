@@ -1,4 +1,4 @@
-## Installing Ruby (with [rbenv](https://github.com/sstephenson/rbenv))
+# Installing Ruby (with [rbenv](https://github.com/sstephenson/rbenv))
 
 > Ruby is the programming language that we choose to teach in Le Wagon. MacOS has ruby by default, but an old version. Also, developers want to have multiple versions of ruby on their laptop, because we usually work on severals different projects, which have different ruby version. To handle multiple ruby version, there is 2 tools : rbenv and rvm. We'll use rbenv.
 

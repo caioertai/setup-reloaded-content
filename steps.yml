@@ -1,52 +1,52 @@
 macos:
-  - name: Command line tools
+  - name: I got the message or it’s installing
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/01-command-line-tools/instructions.md
     troubleshooting: ''
-  - name: Github Account
+  - name: I have an account now!
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/02-github-account/instructions.md
     troubleshooting: ''
-  - name: Homebrew
+  - name: Ready for the next step!
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/03-homebrew/instructions.md
     troubleshooting: ''
-  - name: Sublime
+  - name: I unmounted Sublime and moved it to my Applications folder
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/04-sublime/instructions.md
     troubleshooting: ''
-  - name: Oh My Zsh
+  - name: Yasss my terminal looks so fancy!
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/05-oh-my-zsh/instructions.md
     troubleshooting: ''
-  - name: SSH Keys
+  - name: SSH key and passphrase all set
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/06-ssh-keys/instructions.md
     troubleshooting: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/06-ssh-keys/common-problems.md
-  - name: Dotfiles
+  - name: I've quit and reopened my terminal
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/07-dotfiles/instructions.md
     troubleshooting: ''
-  - name: Sublime Configuration
+  - name: Packages are installed and I've closed Sublime
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/08-sublime-configuration/instructions.md
     troubleshooting: ''
-  - name: SSH Passphrase
+  - name: Done, ready for the next step
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/09-ssh-passphrase/instructions.md
     troubleshooting: ''
-  - name: Rbenv & Ruby
+  - name: I have Ruby version 2.6.3
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/10-rbenv-and-ruby/instructions.md
     troubleshooting: ''
-  - name: Basic Gems
+  - name: I've got my gems!
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/11-basic-gems/instructions.md
     troubleshooting: ''
-  - name: PostgreSQL
+  - name: Succesfully installed
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/12-postgresql/instructions.md
     troubleshooting: ''
-  - name: OS Security
+  - name: My Mac is secure now!
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/13-os-security/instructions.md
     troubleshooting: ''
-  - name: Checkup
+  - name: My workstation is ready :)
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/14-checkup/instructions.md
     troubleshooting: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/14-checkup/common-problems.md
-  - name: Register as an alumni
+  - name: I'm part of the Le Wagon community, woop woop!
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/15-alumni-registration/instructions.md
     troubleshooting: ''
-  - name: Register on Le Wagon Slack
+  - name: I've installed Slack and uploaded an awesome picture of myself
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/16-slack/instructions.md
     troubleshooting: ''
-  - name: OS Tips and Keyboard configuration
+  - name: I'm ready to become a developer
     link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/17-keyboard-and-os-tips/instructions.md
     troubleshooting: ''

@@ -1,4 +1,4 @@
-## Homebrew
+# Homebrew
 
 > [Homebrew](http://brew.sh/) is an app store without visual interface. We interact with it only with command line in the terminal. We can download and install programs in a easy and quick way. Homebrew only exists for Mac 🍏. We call such a thing a **package manager**. All the programs that we download and install via homebrew doesn't have visual interface, so we'll interact with them using terminal.
 

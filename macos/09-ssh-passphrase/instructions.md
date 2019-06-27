@@ -1,4 +1,4 @@
-### SSH Passphrase
+# SSH Passphrase
 
 In a terminal window, launch this command:
 

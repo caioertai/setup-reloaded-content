@@ -1,4 +1,4 @@
-## Sublime Text 3 - Your text editor
+# Sublime Text 3 - Your text editor
 
 > A text editor is a software like word that is used by developers to write code. Since code is just text, then the old "Notepad" text editor from our old windows was enough to write code. But we prefer more complete tools with shortcuts to navigate between files, to add code colorization, etc. A text editor is one of the most important tools of a developer.
 

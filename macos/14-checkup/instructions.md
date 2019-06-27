@@ -1,4 +1,4 @@
-## Check-up
+# Check-up
 
 Let's check if you successfully installed everything.
 

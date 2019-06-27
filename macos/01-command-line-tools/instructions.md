@@ -1,4 +1,4 @@
-## Command Line Tools
+# Command Line Tools
 
 > Command line tools is a package of tools for MacOS that are needed for us, because some technologies that we'll install today depends on it
 

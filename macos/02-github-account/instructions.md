@@ -1,4 +1,4 @@
-## GitHub account
+# GitHub account
 
 > GitHub is a website that is used by developers to save and archive codebase. It's also really useful for collaborating on projects with teammates. As an example, if you want to see the bitcoin codebase, it's on GitHub on https://github.com/bitcoin/bitcoin
 

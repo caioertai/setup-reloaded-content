@@ -1,4 +1,4 @@
-### Sublime Text auto-configuration
+# Sublime Text auto-configuration
 
 > Sublime, as all text editors, are fully configurable. We can add some plugins to enhance capabilities of it. In the previous step, a file containing a list of plugin has been created for sublime.
 

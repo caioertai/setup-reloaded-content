@@ -1,4 +1,4 @@
-## Dotfiles (Standard configuration)
+# Dotfiles (Standard configuration)
 
 > Dotfiles are a set of files used to configure basic tools that we're using. Every developer has their own dotfiles, setting up their own plugins, keyboard shortcut, etc. We'll use standard dotfiles, that you will be able to update as much as you need.
 

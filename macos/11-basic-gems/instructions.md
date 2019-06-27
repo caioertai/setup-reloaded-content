@@ -1,4 +1,4 @@
-## Installing some gems
+# Installing some gems
 
 > We're going to install some gems. Gems are libraries written in ruby and published on a website that we can download and use using a tool called bundler, that you alread have ;) Once a gem exists in this website, we just have to run `gem install gem_name` in the terminal to download it.
 

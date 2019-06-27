@@ -1,4 +1,4 @@
-## Keyboard
+# Keyboard
 
 As you become a programmer, you'll understand that leaving the keyboard takes a lot of time,
 so you'll want to minimize using the trackpad or the mouse. Here are a few tricks on OSX

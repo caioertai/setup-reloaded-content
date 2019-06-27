@@ -1,4 +1,4 @@
-## GitHub
+# GitHub
 
 > An SSH Key is a key that we generate for each device, that we'll be used to automatically authenticate you when using remote services, such as GitHub. Without SSH Key, you would need to enter your login and password each time you want to push code from your laptop to GitHub. With SSH Key, you authenticate once, and that's good.
 

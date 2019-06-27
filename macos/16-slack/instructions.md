@@ -1,4 +1,4 @@
-## Slack
+# Slack
 
 [Download](https://itunes.apple.com/fr/app/slack/id803453959?mt=12) the Slack native app from the mac App Store, and sign in to `lewagon-alumni` organization.
 
