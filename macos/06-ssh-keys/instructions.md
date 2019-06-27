@@ -6,9 +6,7 @@ So, here, we are going to generate an SSH Key for your laptop, and give that key
 
 Open a terminal and type this, **replacing the email with the email you used to sign up with GitHub**.
 
-```bash
-mkdir -p ~/.ssh && ssh-keygen -t ed25519 -o -a 100 -f ~/.ssh/id_ed25519 -C "TYPE_YOUR_EMAIL@HERE.com"
-```
+`mkdir -p ~/.ssh && ssh-keygen -t ed25519 -o -a 100 -f ~/.ssh/id_ed25519 -C "TYPE_YOUR_EMAIL@HERE.com"`
 
 It will prompt for information. Just press enter until it asks for a **passphrase**. At that time, put something you want (and that you'll remember). It's like a password to protect your private key. As earlier, the characters that you're typing won't show up, and that's normal. When you're done, press `Enter`.
 
@@ -16,9 +14,7 @@ Now, your SSH Key is generated. We can show the public part (there is private pa
 
 To show the public part, run
 
-```bash
-  cat ~/.ssh/id_ed25519.pub
-```
+`cat ~/.ssh/id_ed25519.pub`
 
 It will prompt on the screen the content of the `id_ed25519.pub` file (which is the public part of the key).
 
