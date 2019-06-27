@@ -11,6 +11,7 @@ Sublime Text is free without any time limitation but a popup will appear every t
 Again, make sure that Sublime Text is there, not in the disk image you downloaded. To make sure it's correct, once Sublime Text is installed, unmount the "Sublime Text 3" disk in the left panel of Finder. Finder will complain if something went wrong. Ask a teacher.
 
 There also free alternatives to sublime. The most famous ones are :
+
 * Atom (developped by GitHub)
 * VSCode (developped by MicroSoft)
 * Vim (which is really old, really complicated to learn but really powerful once mastered)

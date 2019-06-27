@@ -43,7 +43,7 @@ cd ~/code/$GITHUB_USERNAME/dotfiles
 zsh git_setup.sh
 ```
 
-:point_up: This will **prompt** you for your name (`Firstname Lastname`) and your email.
+👆This will **prompt** you for your name (`Firstname Lastname`) and your email.
 
 Be careful, you **need** to put the **same** email as the one you sign up with on GitHub.
 
