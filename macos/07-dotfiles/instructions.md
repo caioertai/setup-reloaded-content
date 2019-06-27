@@ -17,18 +17,13 @@ Once your forked `dotfiles` on your GitHub account, we'll grab the content of th
 Open your terminal. **Don't blindly copy paste this line**, replace `replace_this_with_your_github_username` with *your*
 own github username (not your email, your username).
 
-```bash
-export GITHUB_USERNAME=replace_this_with_your_github_username
+`export GITHUB_USERNAME=replace_this_with_your_github_username`
 
-# Example:
-#   export GITHUB_USERNAME=ssaunier
-```
+Example: `export GITHUB_USERNAME=ssaunier`
 
 Now copy/paste this very long line in your terminal. Do **not** change this one.
 
-```bash
-mkdir -p ~/code/$GITHUB_USERNAME && cd $_ && git clone git@github.com:$GITHUB_USERNAME/dotfiles.git
-```
+`mkdir -p ~/code/$GITHUB_USERNAME && cd $_ && git clone git@github.com:$GITHUB_USERNAME/dotfiles.git`
 
 <script id="asciicast-ks0iILrMVv7kvmJ1STqKiwFWR" src="https://asciinema.org/a/ks0iILrMVv7kvmJ1STqKiwFWR.js" async></script>
 
