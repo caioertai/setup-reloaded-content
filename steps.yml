@@ -1,85 +1,91 @@
+linux:
+  - name: GitHub Account
+    button: I have an account now!
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/02-github-account/instructions.md
+    troubleshooting: 'https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/02-github-account/common-problems.md'
+    tools: ''
 macos:
   - name: Command Line Tools
     button: I got the message or it's installing
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/01-command-line-tools/instructions.md
-    troubleshooting: 'https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/01-command-line-tools/common-problems.md'
-    tools: 'https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/01-command-line-tools/detailed-infos.md'
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/01-command-line-tools/instructions.md
+    troubleshooting: 'https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/01-command-line-tools/common-problems.md'
+    tools: 'https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/01-command-line-tools/detailed-infos.md'
   - name: GitHub Account
     button: I have an account now!
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/02-github-account/instructions.md
-    troubleshooting: 'https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/02-github-account/common-problems.md'
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/02-github-account/instructions.md
+    troubleshooting: 'https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/02-github-account/common-problems.md'
     tools: ''
   - name: Homebrew
     button: Ready for the next step!
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/03-homebrew/instructions.md
-    troubleshooting: 'https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/03-homebrew/common-problems.md'
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/03-homebrew/instructions.md
+    troubleshooting: 'https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/03-homebrew/common-problems.md'
   - name: Homebrew
     button: I unmounted Sublime and moved it to my Applications folder
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/04-sublime/instructions.md
-    troubleshooting: 'https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/04-sublime/common-problems.md'
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/04-sublime/instructions.md
+    troubleshooting: 'https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/04-sublime/common-problems.md'
     tools: ''
   - name: Oh-my-zsh
     button: Yasss my terminal looks so fancy!
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/05-oh-my-zsh/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/05-oh-my-zsh/instructions.md
     troubleshooting: ''
     tools: ''
   - name: SSH keys
     button: SSH key and passphrase all set
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/06-ssh-keys/instructions.md
-    troubleshooting: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/06-ssh-keys/common-problems.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/06-ssh-keys/instructions.md
+    troubleshooting: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/06-ssh-keys/common-problems.md
     tools: ''
   - name: Dotfiles
     button: I've quit and reopened my terminal
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/07-dotfiles/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/07-dotfiles/instructions.md
     troubleshooting: ''
     tools: ''
   - name: Sublime configuration
     button: Packages are installed and I've closed Sublime
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/08-sublime-configuration/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/08-sublime-configuration/instructions.md
     troubleshooting: ''
     tools: ''
   - name: SSH Passphrase
     button: Done, ready for the next step
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/09-ssh-passphrase/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/09-ssh-passphrase/instructions.md
     troubleshooting: ''
     tools: ''
   - name: Ruby & Rbenv
     button: I have Ruby version 2.6.3
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/10-rbenv-and-ruby/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/10-rbenv-and-ruby/instructions.md
     troubleshooting: ''
     tools: ''
   - name: Installing Gems
     button: I've got my gems!
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/11-basic-gems/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/11-basic-gems/instructions.md
     troubleshooting: ''
     tools: ''
   - name: Postgresql
     button: Succesfully installed
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/12-postgresql/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/12-postgresql/instructions.md
     troubleshooting: ''
     tools: ''
   - name: Security
     button: My Mac is secure now!
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/13-os-security/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/13-os-security/instructions.md
     troubleshooting: ''
     tools: ''
   - name: Checkup
     button: My workstation is ready :)
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/14-checkup/instructions.md
-    troubleshooting: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/14-checkup/common-problems.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/14-checkup/instructions.md
+    troubleshooting: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/14-checkup/common-problems.md
     tools: ''
   - name: Alumni registration
     button: I'm part of the Le Wagon community, woop woop!
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/15-alumni-registration/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/15-alumni-registration/instructions.md
     troubleshooting: ''
     tools: ''
   - name: Slack
     button: I've installed Slack and uploaded an awesome picture of myself
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/16-slack/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/16-slack/instructions.md
     troubleshooting: ''
     tools: ''
   - name: Keyboard & OS tips
     button: I'm ready to become a developer
-    link: https://raw.githubusercontent.com/kevcha/setup-reloaded-content/master/macos/17-keyboard-and-os-tips/instructions.md
+    link: https://raw.githubusercontent.com/caioertai/setup-reloaded-content/master/macos/17-keyboard-and-os-tips/instructions.md
     troubleshooting: ''
     tools: ''
